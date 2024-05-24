@@ -27,6 +27,8 @@
 ### 自动寻路
 <img alt="自动寻路" src="https://github.com/H-Bole/Picture-home/blob/main/U3D/AN4.gif" width="900" />
 
+## GitHub 链接
+[https://github.com/H-Bole/KickingMario](https://github.com/H-Bole/U3D_Mystery_Adventure)
 ## 游戏全流程视频
 [点击观看视频](https://www.bilibili.com/video/BV1BQ4y157Kv/)
 
